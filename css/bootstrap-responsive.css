@@ -1056,3 +1056,63 @@
     overflow: visible !important;
   }
 }
+
+
+@media (max-width: 320px){
+body {
+background-image:url('http://www.salondoreen.com/images/sexy/sexy320.jpg');
+background-color:#85d1c7;
+background-repeat:no-repeat;
+background-attachment:fixed;
+  }}
+@media (min-width: 321px) and (max-width: 539px) {
+body {
+background-image:url('http://www.salondoreen.com/images/sexy/sexy480.jpg');
+background-color:#85d1c7;
+background-repeat:no-repeat;
+background-attachment:fixed;
+  }}
+@media (min-width: 540px) and (max-width: 768px) {
+body {
+background-image:url('http://www.salondoreen.com/images/sexy/sexy767.jpg');
+background-color:#85d1c7;
+background-repeat:no-repeat;
+background-attachment:fixed;
+  }}
+
+@media (min-width: 769px) and (max-width: 1280px) {
+body {
+background-image:url('http://www.salondoreen.com/images/sexy/sexy1260.jpg');
+background-color:#85d1c7;
+background-repeat:no-repeat;
+background-attachment:fixed;
+  }}
+@media (min-width: 1281px) and (max-width: 1366px) {
+body {
+background-image:url('http://www.salondoreen.com/images/sexy/sexy1340.jpg');
+background-color:#85d1c7;
+background-repeat:no-repeat;
+background-attachment:fixed;
+  }}
+@media (min-width: 1367px) and (max-width: 1920px) {
+body {
+background-image:url('http://www.salondoreen.com/images/sexy/sexy1920.jpg');
+background-color:#85d1c7;
+background-repeat:no-repeat;
+background-attachment:fixed;
+  }}
+@media (min-width: 1921px) {
+body {
+background-image:url('http://www.salondoreen.com/images/sexy/sexy2560.jpg');
+background-color:#85d1c7;
+background-repeat:no-repeat;
+background-attachment:fixed;
+  }}
+
+
+
+
+
+
+
+
